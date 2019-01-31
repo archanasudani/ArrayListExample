@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9df03408-0500-466c-bdf3-407cd352e518" name="Default Changelist" comment="" />
+    <list default="true" id="9df03408-0500-466c-bdf3-407cd352e518" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CollectionsTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashMap/HashMapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hashSet/HashSetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayListExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayListExample/loveProgramming/ArrayListExamples.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayListExample/loveProgramming/ArrayPetsAddAndRemove.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ArrayListExample/loveProgramming/Practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loveProgramming/ArrayListExamples.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayList/ArrayListExamples.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loveProgramming/ArrayPetsAddAndRemove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayList/ArrayPetsAddAndRemove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/loveProgramming/Practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayList/Practice.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,19 +26,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/loveProgramming/Practice.java">
+        <entry file="file://$PROJECT_DIR$/src/hashSet/HashSetExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="43" lean-forward="true" selection-end-line="44" />
+              <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/hashMap/HashMapExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/arrayList/ArrayPetsAddAndRemove.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/loveProgramming/ArrayPetsAddAndRemove.java">
+        <entry file="file://$PROJECT_DIR$/src/arrayList/Practice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -38,53 +73,45 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/loveProgramming/ArrayListExamples.java" />
         <option value="$PROJECT_DIR$/src/loveProgramming/Practice.java" />
         <option value="$PROJECT_DIR$/src/loveProgramming/ArrayPetsAddAndRemove.java" />
+        <option value="$PROJECT_DIR$/src/loveProgramming/HashMapDetails.java" />
+        <option value="$PROJECT_DIR$/src/loveProgramming/ArrayListExamples.java" />
+        <option value="$PROJECT_DIR$/src/loveProgramming/HashMapExamles.java" />
+        <option value="$PROJECT_DIR$/src/loveProgramming/HashMap.java" />
+        <option value="$PROJECT_DIR$/src/loveProgramming/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/src/test/HashSetExample.java" />
+        <option value="$PROJECT_DIR$/src/hashMap/HashMapExample.java" />
+        <option value="$PROJECT_DIR$/Collections.iml" />
+        <option value="$PROJECT_DIR$/src/hashSet/HashSetExample.java" />
+        <option value="$PROJECT_DIR$/src/arrayList/Practice.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="86" />
-    <option name="width" value="1280" />
-    <option name="height" value="717" />
+    <option name="x" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="ArrayListExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListExample" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayListExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ArrayListExample" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ArrayListExample" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="loveProgramming" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548868184954" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548893742072" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
@@ -99,13 +126,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayPetsAddAndRemove">
+  <component name="RunManager" selected="Application.HashMapExample">
     <configuration name="ArrayListExamples" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loveProgramming.ArrayListExamples" />
-      <module name="ArrayListExample" />
+      <option name="MAIN_CLASS_NAME" value="arrayList.ArrayListExamples" />
+      <module name="CollectionsTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loveProgramming.*" />
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +141,37 @@
       </method>
     </configuration>
     <configuration name="ArrayPetsAddAndRemove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loveProgramming.ArrayPetsAddAndRemove" />
-      <module name="ArrayListExample" />
+      <option name="MAIN_CLASS_NAME" value="arrayList.ArrayPetsAddAndRemove" />
+      <module name="CollectionsTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loveProgramming.*" />
+          <option name="PATTERN" value="arrayList.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashMap.HashMapExample" />
+      <module name="CollectionsTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashSetExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashSet.HashSetExample" />
+      <module name="CollectionsTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashSet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +180,11 @@
       </method>
     </configuration>
     <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="loveProgramming.Practice" />
-      <module name="ArrayListExample" />
+      <option name="MAIN_CLASS_NAME" value="arrayList.Practice" />
+      <module name="CollectionsTest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="loveProgramming.*" />
+          <option name="PATTERN" value="arrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,8 +192,57 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="CollectionsTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="CollectionsTest" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.HashSetExample" />
         <item itemvalue="Application.ArrayPetsAddAndRemove" />
         <item itemvalue="Application.Practice" />
       </list>
@@ -161,9 +263,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2647504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -171,7 +272,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328594" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.328594" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -180,7 +281,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.328594" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
       <window_info anchor="right" id="Maven" order="2" />
@@ -188,7 +289,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="7" weight="0.24962178" />
+      <window_info anchor="right" id="Ant Build" order="7" visible="true" weight="0.022692889" />
     </layout>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -196,24 +297,56 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/loveProgramming/ArrayListExamples.java">
+    <entry file="file://$PROJECT_DIR$/src/loveProgramming/HashMapDetails.java" />
+    <entry file="file://$PROJECT_DIR$/src/loveProgramming/HashMap.java" />
+    <entry file="file://$PROJECT_DIR$/src/loveProgramming/HashMapExample.java" />
+    <entry file="file://$PROJECT_DIR$/src/loveProgramming/HashMapExamles.java" />
+    <entry file="file://$PROJECT_DIR$/src/test.java" />
+    <entry file="file://$PROJECT_DIR$/src/arrayList/ArrayListExamples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="25" selection-start-line="19" selection-end-line="25" />
+        <state relative-caret-position="714">
+          <caret line="42" column="69" lean-forward="true" selection-start-line="42" selection-start-column="69" selection-end-line="42" selection-end-column="69" />
+          <folding>
+            <element signature="e#294#302#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/loveProgramming/Practice.java">
+    <entry file="file://$PROJECT_DIR$/CollectionsTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="72" column="23" lean-forward="true" selection-start-line="72" selection-start-column="23" selection-end-line="72" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/hashSet/HashSetExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="43" lean-forward="true" selection-end-line="44" />
+          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/loveProgramming/ArrayPetsAddAndRemove.java">
+    <entry file="file://$PROJECT_DIR$/src/hashMap/HashMapExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="33" column="24" selection-start-line="33" selection-start-column="24" selection-end-line="33" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" column="32" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayList/ArrayPetsAddAndRemove.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/arrayList/Practice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
